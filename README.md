@@ -2,6 +2,7 @@
 
 UniBee is a cross-platform solution designed for efficient campus golf car bookings. This project is built using the Flutter framework for the mobile apps and website, with Firebase serving as the backend. 
 
+## Note 📝
 Unibee has been developed for the SWE444 course at King Saud University.
 
 ## Features:
