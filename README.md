@@ -5,7 +5,7 @@ UniBee is a cross-platform solution designed for efficient campus golf car booki
 ## Note 📝
 Unibee has been developed for the SWE444 course at King Saud University.
 
-## Features:
+## Project Structure 🏗️
 
 - **Affiliate App:** Empower affiliates to manage bookings efficiently. 📲💼
 - **Driver App:** Enable drivers to navigate orders, track their route, and optimize pickups. 🚗📍
